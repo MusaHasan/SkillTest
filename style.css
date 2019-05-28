@@ -210,7 +210,7 @@ p {
   font-family: 'Montserrat';
   font-weight: bold;
   color: white;
-  margin-left: 1rem;
+  margin-left: 5px;
   padding: 15px 1rem 1rem 1.3rem;
   background: url(images/backImg.png);
   background-position: top left;
@@ -227,7 +227,7 @@ font-family: 'Montserrat';
 font-weight: bold;
 color: white;
 top: 0%;
-margin-left: 3.6rem;
+margin-left: 38px;
 padding: 15px 1rem 1rem 1.3rem;
 background: url(images/backImg.png);
 background-position: top left;
