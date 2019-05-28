@@ -211,11 +211,11 @@ p {
   font-weight: bold;
   color: white;
   margin-left: 1rem;
-  padding: 10px 1rem 1rem 1.3rem;
+  padding: 15px 1rem 1rem 1.3rem;
   background: url(images/backImg.png);
   background-position: top left;
   background-repeat: no-repeat;
-  background-size: 159px 50px;
+  background-size: 180px 50px;
   animation: popinpopup 3s forwards;
 
 }
@@ -228,11 +228,11 @@ font-weight: bold;
 color: white;
 top: 0%;
 margin-left: 3.6rem;
-padding: 10px 1rem 1rem 1.3rem;
+padding: 15px 1rem 1rem 1.3rem;
 background: url(images/backImg.png);
 background-position: top left;
 background-repeat: no-repeat;
-background-size: 159px 50px;
+background-size: 180px 50px;
 
 }
 .floatingIcn:hover .hover{
