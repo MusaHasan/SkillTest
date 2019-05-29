@@ -197,7 +197,7 @@ p {
   text-decoration: none;
 }
 .floatingIcn img{
-  height: 42px;
+  height: 30px;
   width: 40px;
 }
 .hov{
@@ -206,12 +206,11 @@ p {
   font-family: 'Montserrat';
   font-weight: bold;
   color: white;
-  margin-left: 5px;
-  padding: 2px 13px 2px 24px;
+  padding: 5px 12px 6px 28px;
   background: url(images/backImg.png);
   background-position: top left;
   background-repeat: no-repeat;
-  background-size: 180px 50px;
+  background-size: 160px 50px;
   animation: popinpopup 3s forwards;
 
 }
@@ -222,13 +221,13 @@ border-radius: 5px;
 font-family: 'Montserrat';
 font-weight: bold;
 color: white;
-top: 0%;
-margin-left: 38px;
-padding: 2px 13px 2px 24px;
+top: -10px;
+margin-left: 35px;
+padding: 5px 12px 6px 28px;
 background: url(images/backImg.png);
 background-position: top left;
 background-repeat: no-repeat;
-background-size: 180px 50px;
+background-size: 160px 50px;
 
 }
 .floatingIcn:hover .hover{
