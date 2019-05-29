@@ -205,6 +205,9 @@ p {
   display: inline;
   font-family: 'Montserrat';
   font-weight: bold;
+  border-radius:50x;
+  top: -10px;
+  left:35px;
   color: white;
   padding: 5px 12px 6px 28px;
   background: url(images/backImg.png);
